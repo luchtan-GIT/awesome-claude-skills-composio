@@ -176,6 +176,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [Meeting Insights Analyzer](./meeting-insights-analyzer/) - Analyzes meeting transcripts to uncover behavioral patterns including conflict avoidance, speaking ratios, filler words, and leadership style.
 - [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) - Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. *By [@PleasePrompto](https://github.com/PleasePrompto)*
 - [Twitter Algorithm Optimizer](./twitter-algorithm-optimizer/) - Analyze and optimize tweets for maximum reach using Twitter's open-source algorithm insights. Rewrite and edit tweets to improve engagement and visibility.
+- [Music For Robots (Cognitive Calibration Suite)](https://github.com/luchtan-GIT/m4r-data/tree/main/skills/music-for-robots) - Cognitive calibration and enhancer suite (`music-for-robots`, `cognitive-calibration`, `unquantized-brainstorm`, `mechanical-ear-critic`) that breaks autoregressive lock-in and AI slop without compacting context by ingesting compact, unquantized human musical compositions (`.mp3`). *By [@luchtan-GIT](https://github.com/luchtan-GIT)*
 
 ### Creative & Media
 
